@@ -13,3 +13,5 @@ Date: 8.27.2025 - Subject: Git Repo. Today I learned how to use git and creating
     git log 
  6. to make an empty journal file:
     touch filename.md
+
+Date: 8.29.2025 - Subject: Team Git Repo. Today I learned a lot about wsl and special commands to use in a terminal. Also, I learned how to create a join team repository. 
